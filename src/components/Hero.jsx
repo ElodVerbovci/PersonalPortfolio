@@ -9,10 +9,10 @@ const Hero = () => {
        <p className='text-[#00df9a] font-bold p-2 text-xl font-FiraCode mt-44'>Welome To My Portfolio</p>  
        <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-6 font-Roboto'>FullStack Web Developer</h1>
        <div className='flex justify-center items-center '>
-        <p className='md:text-2xl sm:text-xl text-sm font-bold py-4 font-FiraCode'>Using Technologies Like </p>
-        <ReactTyped className='md:text-2xl sm:text-sm text-sm font-bold pl-2 text-[#00df9a] font-FiraCode' strings={['ReactJS , NodeJS , ExpressJS']} typeSpeed={120} backSpeed={140} loop />
+        <p className='md:text-2xl sm:text-xl text-sm font-bold py-4 font-FiraCode'>Proficient in:</p>
+        <ReactTyped className='md:text-2xl sm:text-sm text-sm font-bold pl-2 text-[#00df9a] font-FiraCode' strings={['Javacript,ReactJS,NodeJS']} typeSpeed={120} backSpeed={140} loop />
        </div>
-       <p className='md:text-1xl text-xl font-bold text-gray-500 md:pl-4 font-FiraMono'>Delivering Fast , Precise , Robust Websites & Applications!</p>
+       <p className='md:text-1xl text-sm font-bold text-gray-500 md:pl-4 font-FiraMono my-4'>Delivering Fast , Precise , Robust Websites & Applications!</p>
       
        <a
   href="https://www.linkedin.com/in/elod-verbovci-534541254/"
