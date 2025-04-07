@@ -18,7 +18,7 @@ const Hero = () => {
   href="https://www.linkedin.com/in/elod-verbovci-534541254/"
   target="_blank"
   rel="noopener noreferrer"
-  className="text-[#00df9a] bg-transparent border border-[#00df9a] pt-3 pb-3 px-8 rounded-md font-medium mt-12 mx-auto font-mono mt-6 leading-none transition-all duration-300 ease-in-out transform hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-[5px_5px_0_0px_#00df9a] text-center inline-block"
+  className="text-[#00df9a] bg-transparent border border-[#00df9a] pt-3 pb-3 px-8 rounded-md font-medium mt-12 mx-auto font-mono  leading-none transition-all duration-300 ease-in-out transform hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-[5px_5px_0_0px_#00df9a] text-center inline-block"
 >
   Hire Me
 </a>
