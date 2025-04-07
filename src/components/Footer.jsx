@@ -7,7 +7,7 @@ const Footer = () => {
       <div>
         <h1 className="w-full text-3xl font-bold text-[#00df9a] font-mono">ElodVerbovci.</h1>
         <p className="py-4 font-FiraCode">
-          Delivering High Quality Websites , Web Applications and Many More Solutions For Your Business!
+          Delivering High Quality Websites & Web Applications and Many More Solutions For Your Business!
         </p>
         
         <div className="flex space-x-4 md:w-[75%] my-6">
