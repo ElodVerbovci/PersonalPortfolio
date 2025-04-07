@@ -69,7 +69,7 @@ const Navbar = () => {
           </li>
           <li className="p-4 border-b border-gray-600 cursor-pointer">
             <span className="text-[#00df9a] font-bold pr-2 font-FiraCode">04.</span>
-            <Link to="about" smooth={true} duration={800} onClick={() => setNav(false)} className="text-white hover:text-[#00df9a] font-mono">Contact</Link>
+            <Link to="footer" smooth={true} duration={800} onClick={() => setNav(false)} className="text-white hover:text-[#00df9a] font-mono">Contact</Link>
           </li>
 
           {/* Mobile Resume Button */}
