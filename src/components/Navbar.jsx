@@ -36,7 +36,7 @@ const Navbar = () => {
           </ul>
 
           {/* Resume Button*/}
-          <a href="https://heyzine.com/flip-book/66b771b27f.html" target="_blank" rel="noopener noreferrer" className="hidden md:block">
+          <a href="https://heyzine.com/flip-book/052daced7e.html" target="_blank" rel="noopener noreferrer" className="hidden md:block">
             <button className="flex justify-center text-[#00df9a] bg-transparent border border-[#00df9a] pt-3 pb-3 px-8 rounded-md font-medium my-6 ml-5 mx-auto font-mono mt-6 leading-none transition-all duration-300 ease-in-out transform hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-[5px_5px_0_0px_#00df9a]">
               Resume
             </button>
@@ -74,7 +74,7 @@ const Navbar = () => {
 
           {/* Mobile Resume Button */}
           <li className="p-4 cursor-pointer">
-            <a href="https://heyzine.com/flip-book/66b771b27f.html" target="_blank" rel="noopener noreferrer">
+            <a href="https://heyzine.com/flip-book/052daced7e.html" target="_blank" rel="noopener noreferrer">
               <button className="flex justify-center text-[#00df9a] bg-transparent border border-[#00df9a] pt-3 pb-3 px-8 rounded-md font-medium my-6 ml-5 mx-auto font-mono mt-6 leading-none transition-all duration-300 ease-in-out transform hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-[5px_5px_0_0px_#00df9a]">
                 Resume
               </button>
